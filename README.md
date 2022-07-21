@@ -1,4 +1,4 @@
-# super-aweome-video-game-ecommerce
+# super-aweome-video-game-ecommerce Store - Get Your Game On!
 
 ## Description
 A platform to buy video games through an e-commerce store.
